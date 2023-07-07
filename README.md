@@ -36,7 +36,7 @@ RDV sur Figma pour récupérer les maquettes
 
 ### Listing des PAGES && Composants à réaliser
 
-- ACCUEIL
+- **ACCUEIL**
   - Titre
   - Barre de recherche
   - Ville(s)
@@ -44,7 +44,7 @@ RDV sur Figma pour récupérer les maquettes
     - Image
     - Latitude/Longitude
     - Nom_ville, Nom_pays
-- DETAIL_DUNE_VILLE
+- **DETAIL_DUNE_VILLE**
   - Header
     - Nom_ville
     - Température + tendance
