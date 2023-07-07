@@ -31,7 +31,10 @@ RDV sur Figma pour récupérer les maquettes
 
 1. Create-react-app
 2. Mise en place du router pour les 2 routes des 2 types de page
-3. Mise en place des pages & des composants
+3. Mise en place des pages & des composants en dur (commencer par les props)
+4. Basculer les props en "State" => pour permettre le rafraichissement régulier de l'APP
+5. **Option 1** (plus facile) ===> Mettre en place un ```tick``` (cf doc) pour MAJ les données toutes les 15 secondes
+**Option 2** (moins facile) ===> Se servir du ```useEffect()``` pour MAJ les données toutes les 15 secondes
 
 
 ### Listing des PAGES && Composants à réaliser
