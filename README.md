@@ -35,6 +35,7 @@ RDV sur Figma pour récupérer les maquettes
 4. Basculer les props en "State" => pour permettre le rafraichissement régulier de l'APP
 
 **Option 1** (plus facile) ===> Mettre en place un ```tick``` (cf doc) pour MAJ les données toutes les 15 secondes
+
 **Option 2** (moins facile) ===> Se servir du ```useEffect()``` pour MAJ les données toutes les 15 secondes
 
 
